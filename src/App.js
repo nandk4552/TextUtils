@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import Alert from './components/Alert';
-import About from './components/About';
 import {
 	BrowserRouter as Router,
 	Switch,
